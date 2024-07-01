@@ -1,0 +1,3 @@
+# Massey Ferguson Electroluminescent Driver
+## Based upon the Steve Pietkiewicz of LTC Electroluminescent Panel Power Supply in [Linear Technology Application Note 61](https://www.analog.com/media/en/technical-documentation/application-notes/an61fa.pdf) August 1994
+## Project never long term tested due to only having one Electroluminescent gauge left on the tractor which was cloudy so just decided to use 12V modern gauges
